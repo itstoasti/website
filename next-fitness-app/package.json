@@ -1,0 +1,24 @@
+{
+  "name": "next-fitness-app",
+  "version": "1.0.0",
+  "description": "A Next.js application to track fitness goals, macros, and input recipes into a database.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": ["nextjs", "fitness", "goals", "macros", "recipes"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "typescript": "latest"
+  }
+}
